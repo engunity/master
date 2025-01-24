@@ -24,8 +24,8 @@ The project is organized into the following folders and files:
 4. **`Machines`**:  
    Contains machine-specific configuration files.
 
-5. **`Devices`**:  
-   Contains device-specific configuration files.
+5. **`Docs`**:  
+   Contains documentations.
 ---
 
 ## Setup Instructions
