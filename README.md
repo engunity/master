@@ -9,23 +9,11 @@ The project is organized into the following folders and files:
 
 ### Main Files
 - `Makefile`: Make file to run multiple applications with options.
-- `maincode.py`: Make file to run features and applications.
 
 ### Folders
-1. **`features`**:  
-   Contains independent implementations for modular use.
+1. **`ltspice`**:
+   Contains mixed signal circuit simulations. The pdf file has questions regarding the circuits which can be useful for technical interviews.
 
-2. **`apis`**:  
-   Handles reusable APIs for data loading and performance analysis.
-
-3. **`data`**:  
-   Stores input and output data files.
-
-4. **`Machines`**:  
-   Contains machine-specific configuration files.
-
-5. **`Docs`**:  
-   Contains documentations.
 ---
 
 ## Setup Instructions
