@@ -12,9 +12,9 @@ The project is organized into the following folders and files:
 
 ### Folders
 1. **`ltspice`**:
-   Contains mixed signal circuit simulations. The pdf file has questions regarding the circuits which can be useful for technical interviews.
+   "ltspice folder" contains mixed signal circuit simulations. The pdf file has questions regarding the circuits which can be useful for technical interviews.
 2. **`dsp`**:
-   DSP includes signal processing and communication theories.
+   "dsp" folder includes signal processing, communication theories, and python and/or Matlab models.
 ---
 
 ## Setup Instructions
