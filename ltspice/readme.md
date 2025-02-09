@@ -1,4 +1,9 @@
 
+# OpAmps
+
+* OpAmp Time Domain:
+    * Simulation: [[LTSPice]](/ltspice/opamps/opamp_configs.asc)  
+
 # Filters
 
 * Low Pass Filter Time Domain:
