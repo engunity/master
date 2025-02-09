@@ -1,6 +1,6 @@
-# All in One Project: Performance Modeling, RTL Simulations, and Automation & Analysis Tools
+# All in One Project: Performance Modeling, Analog and RTL Simulations, and Automation & Analysis Tools
 
-This all-in-one project provides a framework for Python/Matlab models, GUI, and Digital Simulations. The project is modular, allowing easy modification and extension.
+This all-in-one project provides a framework for Python/Matlab models, GUI, and LTSpice Analog and Digital SystemVerilog Simulations. The project is modular, allowing easy modification and extension.
 
 ---
 
