@@ -11,12 +11,12 @@ The project is organized into the following folders and files:
 - `Makefile`: Make file to run multiple applications with options.
 
 ### Folders
-1. **`ltspice`**:
-   - "ltspice folder" contains mixed signal circuit simulations. The pdf file has questions regarding the circuits which can be useful for technical interviews.
-   - Please check LTSPICE Readme file for the content: [[Readme]](/ltspice/readme.md)
+1. **`hardware`**:
+   - "hardware folder" contains mixed signal circuit simulations in LTSpice. The pdf file has questions regarding the circuits which can be useful for PCB level design and technical interviews.
+   - Please check "hardware" Readme file for the content: [[Readme]](/hardware/readme.md)
 2. **`wireless`**:
    - "wireless" folder includes signal processing, communication theories, and python and/or Matlab models.
-   - Please check "wireless Readme file for the content: [[Readme]](/wireless/readme.md)
+   - Please check "wireless" Readme file for the content: [[Readme]](/wireless/readme.md)
 ---
 
 ## Setup Instructions
