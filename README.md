@@ -14,9 +14,9 @@ The project is organized into the following folders and files:
 1. **`ltspice`**:
    - "ltspice folder" contains mixed signal circuit simulations. The pdf file has questions regarding the circuits which can be useful for technical interviews.
    - Please check LTSPICE Readme file for the content: [[Readme]](/ltspice/readme.md)
-2. **`dsp`**:
-   - "dsp" folder includes signal processing, communication theories, and python and/or Matlab models.
-   - Please check DSP Readme file for the content: [[Readme]](/dsp/readme.md)
+2. **`wireless`**:
+   - "wireless" folder includes signal processing, communication theories, and python and/or Matlab models.
+   - Please check "wireless Readme file for the content: [[Readme]](/wireless/readme.md)
 ---
 
 ## Setup Instructions
