@@ -17,6 +17,9 @@ The project is organized into the following folders and files:
 2. **`wireless`**:
    - "wireless" folder includes signal processing, communication theories, and python and/or Matlab models.
    - Please check "wireless" Readme file for the content: [[Readme]](/wireless/readme.md)
+3. **`medical`**:
+   - "medical" folder includes medical signal generations, filters, and plots in Python.
+   - Please check "medical" Readme file for the content: [[Readme]](/medical/readme.md)
 ---
 
 ## Setup Instructions
