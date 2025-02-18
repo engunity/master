@@ -1,6 +1,6 @@
-# All in One Project: Performance Modeling, Analog and RTL Simulations, and Automation & Analysis Tools
+# All in One Project: Performance Modeling, Analog and Digital Simulations, and Automation & Analysis Tools
 
-This all-in-one project provides a framework for Python/Matlab models, GUI, and LTSpice Analog and Digital SystemVerilog Simulations. The project is modular, allowing easy modification and extension.
+This all-in-one project provides a framework for Python/Matlab models, and LTSpice Analog and Digital SystemVerilog Simulations. The project is modular, allowing easy modification and extension.
 
 ---
 
@@ -12,7 +12,7 @@ The project is organized into the following folders and files:
 
 ### Folders
 1. **`hardware`**:
-   - "hardware folder" contains mixed signal circuit simulations in LTSpice. The pdf file has questions regarding the circuits which can be useful for PCB level design and technical interviews.
+   - "hardware folder" contains mixed signal circuit simulations in LTSpice. The pdf file has questions regarding the circuits which can be useful for PCB level design and technical discussions.
    - Please check "hardware" Readme file for the content: [[Readme]](/hardware/readme.md)
 2. **`wireless`**:
    - "wireless" folder includes signal processing, communication theories, and python and/or Matlab models.
